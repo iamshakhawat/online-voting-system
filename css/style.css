@@ -1,0 +1,12 @@
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.left{
+  width: 80%;
+}
+button[disabled]{
+  cursor:not-allowed;
+}
